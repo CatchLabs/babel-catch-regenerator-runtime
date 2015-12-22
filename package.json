@@ -1,11 +1,8 @@
 {
   "name": "babel-catch-regenerator-runtime",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "babel-catch-regenerator-runtime",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zenozeng/babel-catch-regenerator-runtime.git"
