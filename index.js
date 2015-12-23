@@ -8,7 +8,7 @@
  * the same directory.
  */
 
-var Promise = require('catch-promise');
+var Promise = require('promise');
 
 !(function(global) {
   "use strict";

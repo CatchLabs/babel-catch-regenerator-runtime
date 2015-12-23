@@ -1,6 +1,6 @@
 {
   "name": "babel-catch-regenerator-runtime",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "babel-catch-regenerator-runtime",
   "main": "index.js",
   "repository": {
@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/zenozeng/babel-catch-regenerator-runtime#readme",
   "dependencies": {
-    "catch-promise": "^1.0.1"
+    "promise": "^7.1.1"
   }
 }
