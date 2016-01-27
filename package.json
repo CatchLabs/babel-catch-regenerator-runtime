@@ -1,6 +1,6 @@
 {
   "name": "babel-catch-regenerator-runtime",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "babel-catch-regenerator-runtime",
   "main": "index.js",
   "repository": {
