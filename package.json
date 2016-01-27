@@ -13,6 +13,7 @@
   },
   "homepage": "https://github.com/zenozeng/babel-catch-regenerator-runtime#readme",
   "dependencies": {
+    "core-js": "^2.0.3",
     "promise": "^7.1.1"
   }
 }
